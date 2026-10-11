@@ -19,6 +19,22 @@ The system did a lot. My side stayed simple.
 
 ![LONG George moving through her work states](./long-george/preview.gif)
 
+## Three little pets came from the same process
+
+George was not my first custom pet. I had already made two playful experiments through a similar process.
+
+One became **Inspired by Peach Monster Can**, a blue-eyed peach energy-can creature with floral linework and fizzy confidence.
+
+![Inspired by Peach Monster Can moving through its work states](./inspired-by-peach-monster-can/preview.gif)
+
+The other became **Inspired By Rocky from Hail Mary**, a gentle five-limbed mineral companion with turquoise traces and musical curiosity.
+
+![Inspired By Rocky from Hail Mary moving through its work states](./inspired-by-rocky-from-hail-mary/preview.gif)
+
+Those two were fun. George became the lovely one because she carried a closer personal meaning. Every small correction described someone we already knew and loved.
+
+All three validated sprite sheets, animated previews and ready-to-paste installation requests live in this public repository. The two inspired pets are clearly labelled as unofficial, non-commercial fan creations. George is original and shared with attribution.
+
 ## We started with her character, not the technical file
 
 My first request was for three cartoon directions. I wanted George to feel like George rather than a photorealistic dog dropped into a workspace.
