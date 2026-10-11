@@ -1,0 +1,15 @@
+{
+  "name": "Inspired By Rocky from Hail Mary",
+  "description": "An unofficial, non-commercial fan-created clever and gentle five-limbed mineral companion with a faceted stone body, turquoise traces, and musical curiosity.",
+  "sprite_file": "spritesheet.png",
+  "sprite_version": 2,
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frames_per_row": [6, 8, 8, 4, 5, 8, 6, 6, 6, 8, 8],
+  "sha256": "0e19f76d69304095892d75c0b5fe7f2724e7a21b26085476f23bb667ee04735e",
+  "usage": "Personal, non-commercial fan use only; subject to third-party rights.",
+  "known_note": "Some look-direction poses are visually ambiguous; the structural Pets validator passes.",
+  "note": "Descriptive metadata only. This file is not an executable installer manifest."
+}

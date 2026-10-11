@@ -1,0 +1,15 @@
+{
+  "name": "LONG George",
+  "description": "An observant, affectionate black-and-white girl with wonderfully long legs and body, a long white neck patch, a distinctive crown spot, and one slightly softer white-marked ear.",
+  "sprite_file": "spritesheet.png",
+  "sprite_version": 2,
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frames_per_row": [6, 8, 8, 4, 5, 8, 6, 6, 6, 8, 8],
+  "sha256": "22f19ae8868555ed68d3af20a8d2ad0f88bb93c206ce8ab591fbe0d5de721ba5",
+  "licence": "CC BY 4.0",
+  "note": "Descriptive metadata only. This file is not an executable installer manifest."
+}
+

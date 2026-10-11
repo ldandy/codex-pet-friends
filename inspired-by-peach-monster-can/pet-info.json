@@ -1,0 +1,15 @@
+{
+  "name": "Inspired by Peach Monster Can",
+  "description": "An unofficial, non-commercial fan-created blue-eyed peach energy-can creature with light limbs, floral linework, and fizzy confidence.",
+  "sprite_file": "spritesheet.png",
+  "sprite_version": 2,
+  "width": 1536,
+  "height": 2288,
+  "cell_width": 192,
+  "cell_height": 208,
+  "frames_per_row": [6, 8, 8, 4, 5, 8, 6, 6, 6, 8, 8],
+  "sha256": "507ea47a86786d2530ead7c9350d195b03827f19c1eb59720e91a72a88ff8790",
+  "usage": "Personal, non-commercial fan use only; subject to third-party rights.",
+  "note": "Descriptive metadata only. This file is not an executable installer manifest."
+}
+
