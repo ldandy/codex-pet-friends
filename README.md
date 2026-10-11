@@ -10,11 +10,13 @@ No original family photographs are included in this repository. Only the finishe
 
 | Pet | Preview | Notes | Download |
 | --- | --- | --- | --- |
-| [LONG George](./long-george/) | ![LONG George animated preview](./long-george/preview.gif) | Original character based on our family dog | [ZIP](./downloads/long-george.zip) |
-| [Inspired by Peach Monster Can](./inspired-by-peach-monster-can/) | ![Peach can inspired pet animated preview](./inspired-by-peach-monster-can/preview.gif) | Unofficial, non-commercial fan creation | [ZIP](./downloads/inspired-by-peach-monster-can.zip) |
-| [Inspired By Rocky from Hail Mary](./inspired-by-rocky-from-hail-mary/) | ![Rocky inspired pet animated preview](./inspired-by-rocky-from-hail-mary/preview.gif) | Unofficial, non-commercial fan creation | [ZIP](./downloads/inspired-by-rocky-from-hail-mary.zip) |
+| [LONG George](./long-george/) | ![LONG George animated preview](./long-george/preview.gif) | Original character based on our family dog | [Download ZIP](https://github.com/ldandy/codex-pet-friends/releases/download/v1.0.0/long-george.zip) |
+| [Inspired by Peach Monster Can](./inspired-by-peach-monster-can/) | ![Peach can inspired pet animated preview](./inspired-by-peach-monster-can/preview.gif) | Unofficial, non-commercial fan creation | [Download ZIP](https://github.com/ldandy/codex-pet-friends/releases/download/v1.0.0/inspired-by-peach-monster-can.zip) |
+| [Inspired By Rocky from Hail Mary](./inspired-by-rocky-from-hail-mary/) | ![Rocky inspired pet animated preview](./inspired-by-rocky-from-hail-mary/preview.gif) | Unofficial, non-commercial fan creation | [Download ZIP](https://github.com/ldandy/codex-pet-friends/releases/download/v1.0.0/inspired-by-rocky-from-hail-mary.zip) |
 
 Each download contains a validated Pets v2 sprite sheet, animated previews, descriptive metadata and a ready-to-paste installation request.
+
+[View the complete v1.0.0 release](https://github.com/ldandy/codex-pet-friends/releases/tag/v1.0.0).
 
 ## The short version of how we made them
 
